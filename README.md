@@ -14,6 +14,9 @@
 	<li><strong>Decompose:</strong> Break a large component in to smaller components that can be composed together.</li>
 	<li><strong>Stateless Functional Component:</strong> A component definition that can include things like state, helper methods and other advanced hooks into the page’s DOM</li>
 	<li><strong>Component Class:</strong> A component defined as a function. It takes only props as an argument and returns a virtual DOM.</li>
+	<li><strong>getInitialState:</strong> Component method for defining the initial state of your component.</li>
+	<li><strong>Flux:</strong> A pattern for organizing your state in an application.</li>
+	<li><strong>Redux:</strong> A popular library for managing application state and state changes.</li>
 </ul>
 
 <h3>Docs</h3>
@@ -25,9 +28,44 @@
 	<li><a href="https://facebook.github.io/react/docs/jsx-in-depth.html#javascript-expressions">JSX JavaScript Expressions</a></li>
 	<li><a href="https://facebook.github.io/react/docs/composition-vs-inheritance.html">Composition vs Inheritance</a></li>	
 	<li><a href="https://facebook.github.io/react/docs/react-component.html">React.Component</a></li>
+	<li><a href="https://facebook.github.io/react/docs/events.html#supported-events">Events in React</a></li>
 </ul>
 
 <h3>Stuff</h3>
 <ul>
 	<li><a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en">React Developer Tools for Chrome</a></li>
+	<li><a href="https://facebook.github.io/flux/">Flux</a></li>
+	<li><a href="http://redux.js.org/index.html">Redux</a></li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
