@@ -1,4 +1,4 @@
-<a href="https://facebook.github.io/react/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png"></a><a href="https://jsx.github.io/"><img src="https://cdn4.iconfinder.com/data/icons/CS5/128/ExtendScript_JSX_file_document.png"></a><a href="https://babeljs.io/"><img src="https://github.com/babel/logo/raw/master/babel.png" height="128" width="128"></a>
+<a href="https://facebook.github.io/react/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png"></a><a href="https://jsx.github.io/"><img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" height="128" width="128"></a><a href="https://babeljs.io/"><img src="https://github.com/babel/logo/raw/master/babel.png" height="128" width="256"></a>
 <h1>React Basics</h1>
 
 <h3>Terms</h3>
@@ -12,6 +12,8 @@
 	<li><strong>Babel.js:</strong> A compiler that creates standard, compatible JavaScript from code that utilizes new JavaScript features and JSX</li>
 	<li><strong>Composition:</strong> A method of combining many smaller or simpler pieces to create a larger piece.</li>
 	<li><strong>Decompose:</strong> Break a large component in to smaller components that can be composed together.</li>
+	<li><strong>Stateless Functional Component:</strong> A component definition that can include things like state, helper methods and other advanced hooks into the page’s DOM</li>
+	<li><strong>Component Class:</strong> A component defined as a function. It takes only props as an argument and returns a virtual DOM.</li>
 </ul>
 
 <h3>Docs</h3>
@@ -22,6 +24,7 @@
 	<li><a href="https://facebook.github.io/react/docs/react-api.html">ReactDOM.render</a></li>
 	<li><a href="https://facebook.github.io/react/docs/jsx-in-depth.html#javascript-expressions">JSX JavaScript Expressions</a></li>
 	<li><a href="https://facebook.github.io/react/docs/composition-vs-inheritance.html">Composition vs Inheritance</a></li>	
+	<li><a href="https://facebook.github.io/react/docs/react-component.html">React.Component</a></li>
 </ul>
 
 <h3>Stuff</h3>
