@@ -1,4 +1,4 @@
-<a href="https://facebook.github.io/react/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png"></a>
+<a href="https://facebook.github.io/react/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png"></a><a href="https://jsx.github.io/"><img src="https://cdn4.iconfinder.com/data/icons/CS5/128/ExtendScript_JSX_file_document.png"></a><a href="https://babeljs.io/"><img src="https://github.com/babel/logo/raw/master/babel.png" height="128" width="128"></a>
 <h1>React Basics</h1>
 
 <h3>Terms</h3>
@@ -20,7 +20,8 @@
 	<li><a href="https://facebook.github.io/react/docs/jsx-in-depth.html">JSX in Depth</a></li>
 	<li><a href="https://facebook.github.io/react/docs/components-and-props.html">Components and Props</a></li>
 	<li><a href="https://facebook.github.io/react/docs/react-api.html">ReactDOM.render</a></li>
-	<li><a href="https://facebook.github.io/react/docs/jsx-in-depth.html#javascript-expressions">JSX JavaScript Expressions</a></li>	
+	<li><a href="https://facebook.github.io/react/docs/jsx-in-depth.html#javascript-expressions">JSX JavaScript Expressions</a></li>
+	<li><a href="https://facebook.github.io/react/docs/composition-vs-inheritance.html">Composition vs Inheritance</a></li>	
 </ul>
 
 <h3>Stuff</h3>
