@@ -17,6 +17,9 @@
 	<li><strong>getInitialState:</strong> Component method for defining the initial state of your component.</li>
 	<li><strong>Flux:</strong> A pattern for organizing your state in an application.</li>
 	<li><strong>Redux:</strong> A popular library for managing application state and state changes.</li>
+	<li><strong>Unidirectional Data Flow:</strong> All data in our applications flow in a single direction. In React it flows down the tree from parent to child. This makes tracking the source and destination easy compared to other architectures where data may be coming from many parts of the application.</li>
+	<li><strong>Application State:</strong> The state or data in our application that is core to the functionality of the application as a whole. This usually includes a list of the models and data being manipulated by the interface. If we were to reload our application, the Application state is what we would like to persist the most</li>
+	<li><strong>Local Component State:</strong> This is state that is used to allow a component to function. Local component state is typically not used by other components in the application, and is less important to persist if the application resets.</li>
 </ul>
 
 <h3>Docs</h3>
