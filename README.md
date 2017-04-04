@@ -20,6 +20,7 @@
 	<li><strong>Unidirectional Data Flow:</strong> All data in our applications flow in a single direction. In React it flows down the tree from parent to child. This makes tracking the source and destination easy compared to other architectures where data may be coming from many parts of the application.</li>
 	<li><strong>Application State:</strong> The state or data in our application that is core to the functionality of the application as a whole. This usually includes a list of the models and data being manipulated by the interface. If we were to reload our application, the Application state is what we would like to persist the most</li>
 	<li><strong>Local Component State:</strong> This is state that is used to allow a component to function. Local component state is typically not used by other components in the application, and is less important to persist if the application resets.</li>
+	<li><strong>Controlled Component:</strong> An input form is controlled when it’s value is passed to it by the parent component. This requires us to update the passed value when it changes by listening for the onChange event of the input component.</li>
 </ul>
 
 <h3>Docs</h3>
@@ -32,6 +33,8 @@
 	<li><a href="https://facebook.github.io/react/docs/composition-vs-inheritance.html">Composition vs Inheritance</a></li>	
 	<li><a href="https://facebook.github.io/react/docs/react-component.html">React.Component</a></li>
 	<li><a href="https://facebook.github.io/react/docs/events.html#supported-events">Events in React</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce">Array.proptotype.reduce()</a></li>
+	<li><a href="https://facebook.github.io/react/docs/forms.html">Forms in React</a></li>
 </ul>
 
 <h3>Stuff</h3>
