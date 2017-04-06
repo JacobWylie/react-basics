@@ -76,6 +76,7 @@ body {
     font-weight: bold;
     text-shadow: none;
     text-transform: uppercase;
+    outline-style: none;
   }
 
   .stopwatch button:hover {

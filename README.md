@@ -35,6 +35,9 @@
 	<li><a href="https://facebook.github.io/react/docs/events.html#supported-events">Events in React</a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce">Array.proptotype.reduce()</a></li>
 	<li><a href="https://facebook.github.io/react/docs/forms.html">Forms in React</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval"></a>Using setInterval</li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout">Using setTimeout</a></li>
+	<li><a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Conditional_Operator">Ternary conditional operator</a></li>
 </ul>
 
 <h3>Stuff</h3>
@@ -42,6 +45,8 @@
 	<li><a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en">React Developer Tools for Chrome</a></li>
 	<li><a href="https://facebook.github.io/flux/">Flux</a></li>
 	<li><a href="http://redux.js.org/index.html">Redux</a></li>
+	<li><a href="https://webpack.github.io/">Webpack</a></li>
+	<li><a href="https://babeljs.io/">Babel</a></li>
 </ul>
 
 
