@@ -1,6 +1,8 @@
 <a href="https://facebook.github.io/react/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png"></a><a href="https://jsx.github.io/"><img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" height="128" width="128"></a><a href="https://babeljs.io/"><img src="https://github.com/babel/logo/raw/master/babel.png" height="128" width="256"></a><img src="https://github.com/webpack/media/blob/master/logo/logo-on-white-bg.png?raw=true" height="128" width="256"></a>
 <h1>React Basics</h1>
 
+<h3>Check Me Out!: <a href="https://jacobwylie.github.io/react-basics/">https://jacobwylie.github.io/react-basics/</a></h3>
+
 <h3>Terms</h3>
 <ul>
 	<li><strong>Imperative:</strong> A programming model where we describe the steps to achieve our result.</li>
@@ -38,6 +40,15 @@
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval">Using setInterval</a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout">Using setTimeout</a></li>
 	<li><a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Conditional_Operator">Ternary conditional operator</a></li>
+	<li><a href="https://webpack.github.io/docs/installation.html">Webpack Installation</a></li>
+	<li><a href="https://webpack.github.io/docs/configuration.html#configuration-object-content">webpack configuration file – docs</a></li>
+	<li><a href="https://webpack.github.io/docs/multiple-entry-points.html">Multiple entries – docs</a></li>
+	<li><a href="https://github.com/webpack/docs/wiki/configuration#entry">More on webpack configuration</a></li>
+	<li><a href="https://webpack.github.io/docs/webpack-dev-server.html">Webpack dev server – docs</a></li>
+	<li><a href="https://webpack.github.io/docs/webpack-dev-server.html#webpack-dev-server-cli">Webpack dev server options</a></li>
+	<li><a href="https://github.com/webpack-contrib/style-loader">Style loader for webpack</a></li>
+	<li><a href="https://github.com/webpack-contrib/css-loader">CSS loader for webpack</a></li>
+	<li><a href="https://github.com/gaearon/react-hot-loader#react-hot-loader">React Hot Loader</a></li>
 </ul>
 
 <h3>Stuff</h3>
@@ -46,10 +57,6 @@
 	<li><a href="https://facebook.github.io/flux/">Flux</a></li>
 	<li><a href="http://redux.js.org/index.html">Redux</a></li>
 	<li><a href="https://webpack.github.io/">Webpack</a></li>
-	<li><a href="https://webpack.github.io/docs/installation.html">Webpack Installation</a></li>
-	<li><a href="https://webpack.github.io/docs/configuration.html#configuration-object-content">webpack configuration file – docs</a></li>
-	<li><a href="https://webpack.github.io/docs/multiple-entry-points.html">Multiple entries – docs</a></li>
-	<li><a href="https://github.com/webpack/docs/wiki/configuration#entry">More on webpack configuration</a></li>
 	<li><a href="https://babeljs.io/">Babel</a></li>
 </ul>
 
