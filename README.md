@@ -46,6 +46,10 @@
 	<li><a href="https://facebook.github.io/flux/">Flux</a></li>
 	<li><a href="http://redux.js.org/index.html">Redux</a></li>
 	<li><a href="https://webpack.github.io/">Webpack</a></li>
+	<li><a href="https://webpack.github.io/docs/installation.html">Webpack Installation</a></li>
+	<li><a href="https://webpack.github.io/docs/configuration.html#configuration-object-content">webpack configuration file – docs</a></li>
+	<li><a href="https://webpack.github.io/docs/multiple-entry-points.html">Multiple entries – docs</a></li>
+	<li><a href="https://github.com/webpack/docs/wiki/configuration#entry">More on webpack configuration</a></li>
 	<li><a href="https://babeljs.io/">Babel</a></li>
 </ul>
 
