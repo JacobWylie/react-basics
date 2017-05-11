@@ -38,6 +38,17 @@
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval">Using setInterval</a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout">Using setTimeout</a></li>
 	<li><a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Conditional_Operator">Ternary conditional operator</a></li>
+	<li><a href="https://webpack.github.io/docs/installation.html">Webpack Installation</a></li>
+	<li><a href="https://webpack.github.io/docs/configuration.html#configuration-object-content">webpack configuration file – docs</a></li>
+	<li><a href="https://webpack.github.io/docs/multiple-entry-points.html">Multiple entries – docs</a></li>
+	<li><a href="https://github.com/webpack/docs/wiki/configuration#entry">More on webpack configuration</a></li>
+	<li><a href="https://webpack.github.io/docs/webpack-dev-server.html">Webpack dev server – docs</a></li>
+	<li><a href="https://webpack.github.io/docs/webpack-dev-server.html#webpack-dev-server-cli">Webpack dev server options</a></li>
+	<li><a href="https://github.com/webpack-contrib/style-loader">Style loader for webpack</a></li>
+	<li><a href="https://github.com/webpack-contrib/css-loader">CSS loader for webpack</a></li>
+	<li><a href="https://github.com/gaearon/react-hot-loader#react-hot-loader">React Hot Loader</a></li>
+	<li><a href="https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html">Create React App – React blog</a></li>
+	<li><a href="https://github.com/facebookincubator/create-react-app">Create React App – GitHub repo</a></li>
 </ul>
 
 <h3>Stuff</h3>
@@ -46,10 +57,6 @@
 	<li><a href="https://facebook.github.io/flux/">Flux</a></li>
 	<li><a href="http://redux.js.org/index.html">Redux</a></li>
 	<li><a href="https://webpack.github.io/">Webpack</a></li>
-	<li><a href="https://webpack.github.io/docs/installation.html">Webpack Installation</a></li>
-	<li><a href="https://webpack.github.io/docs/configuration.html#configuration-object-content">webpack configuration file – docs</a></li>
-	<li><a href="https://webpack.github.io/docs/multiple-entry-points.html">Multiple entries – docs</a></li>
-	<li><a href="https://github.com/webpack/docs/wiki/configuration#entry">More on webpack configuration</a></li>
 	<li><a href="https://babeljs.io/">Babel</a></li>
 </ul>
 
