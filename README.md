@@ -35,7 +35,7 @@
 	<li><a href="https://facebook.github.io/react/docs/events.html#supported-events">Events in React</a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce">Array.proptotype.reduce()</a></li>
 	<li><a href="https://facebook.github.io/react/docs/forms.html">Forms in React</a></li>
-	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval"></a>Using setInterval</li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval">Using setInterval</a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout">Using setTimeout</a></li>
 	<li><a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Conditional_Operator">Ternary conditional operator</a></li>
 </ul>
